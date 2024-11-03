@@ -17,14 +17,14 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=JoyM1K1" />
 </a> -->
 
-<a href="https://twitter.com/ITF_KI" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/twitter/follow/ITF_KI?label=Twitter&logo=twitter&style=flat" />
+<a href="https://x.com/ITF_KI" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/twitter/follow/ITF_KI?logo=x&style=flat" alt="X account" />
 </a>
 <a href="https://zenn.dev/joy_m1k1">
-  <img src="https://badgen.org/img/zenn/joy_m1k1/likes?style=flat" alt="Likes" />
+  <img src="https://badgen.org/img/zenn/joy_m1k1/likes?style=flat" alt="Zenn Likes" />
 </a>
 <a href="https://atcoder.jp/users/Joy_M1K1?contestType=algo">
-  <img src="https://badgen.org/img/atcoder/Joy_M1K1/rating/algorithm?style=flat" alt="Rating" />
+  <img src="https://badgen.org/img/atcoder/Joy_M1K1/rating/algorithm?style=flat" alt="AtCoder Rating" />
 </a>
 
 # 自己紹介
@@ -36,13 +36,15 @@ CoeFontでエンジニアをしている傍ら、個人事業主としてweb開�
 - Web
   - FE 設計・開発・テスト・運用
   - BE 設計・開発・テスト・運用
-- Mobile Application
-  - クロスプラットフォーム 設計・開発・テスト・運用
-- DB 設計
+- Application
+  - デスクトップアプリ（クロスプラットフォーム） 設計・開発・テスト・運用
+- インフラ
+  - Firebaseを用いたauthentication
+  - NoSQL・RDBを用いたDB設計・保守・運用
 - 上記を総括したシステム設計
 
-`TypeScript` や `Dart` など静的型付けで書ける言語が得意です。<br>
-お仕事のご依頼は **joytech.engineer@gmail.com** まで
+最近は **TypeScript** や **Rust** などをメインに書いています。<br>
+お仕事のご依頼は <a href="mailto:joytech.engineer@gmail.com">joytech.engineer@gmail.com</a> まで
 
 # 学歴・職歴・得意な技術
 
@@ -65,34 +67,42 @@ CoeFontでエンジニアをしている傍ら、個人事業主としてweb開�
 | 2023 | 8 | `株式会社CoeFont`に入社 |
 |      |   | フリーランスとしての副業も継続しつつ、現在に至る。 |
 
-### 得意な技術
+### 技術スタック
 
 <!-- アイコンはこちらから -->
 <!-- https://github.com/vscode-icons/vscode-icons/tree/master/icons -->
 
-<div displey="flex">
-  <img alt="Flutter" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_flutter.svg" width="32" />
-  <img alt="Vue" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="32" />
-  <img alt="Nuxt" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nuxt.svg" width="32" />
-  <img alt="TypeScript" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript_official.svg" width="32">
-  <img alt="Go" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_go_gopher.svg" width="32" />
-  <img alt="NodeJS" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32">
-  <img alt="AWS" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_aws.svg" width="32" />
-  <img alt="Firebase" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firebase.svg" width="32" />
-  <img alt="Docker" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" width="32" />
-  <img alt="MySQL" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="32" />
-</div>
+#### 言語
+
+<img alt="Rust" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_light_rust.svg" width="32">
+<img alt="TypeScript" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript_official.svg" width="32">
+<img alt="Go" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_go_gopher.svg" width="32" />
+<img alt="Swift" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_swift.svg" width="32" />
+<img alt="Dart" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_dartlang.svg" width="32" />
+
+#### フレームワーク
+
+<img alt="Tauri" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_tauri.svg" width="32">
+<img alt="Electron" src="https://avatars.githubusercontent.com/u/13409222?s=200&v=4" width="32">
+<img alt="NodeJS" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32">
+<img alt="React" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_reactjs.svg" width="32" />
+<img alt="SolidJS" src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" width="32" />
+<img alt="Vue" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="32" />
+<img alt="Nuxt" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nuxt.svg" width="32" />
+<img alt="Flutter" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_flutter.svg" width="32" />
+
+
+#### インフラ・その他
+
+<img alt="Firebase" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firebase.svg" width="32" />
+<img alt="AWS" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_aws.svg" width="32" />
+<img alt="MySQL" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="32" />
+<img alt="Docker" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" width="32" />
+
 
 ### 詳細 👇
 
 - [**業務経歴書**](resume.md)
-
-# 今興味があること(今後やりたいこと)
-
-- Rust
-- React
-- iOS Native
-- Deno 🦕
 
 # Stats
 
@@ -108,6 +118,8 @@ CoeFontでエンジニアをしている傍ら、個人事業主としてweb開�
 [![trophy](https://github-profile-trophy.vercel.app/?username=JoyM1K1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 [![](profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-# Reference
+# このページに使用している技術
 
+- [Badge Generator](https://badgen.org/)
+- [Shields.io](https://shields.io/)
 - [GitHubProfile のページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
