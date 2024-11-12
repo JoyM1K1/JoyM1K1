@@ -14,9 +14,78 @@
 ---
 ## CoeFont株式会社 (2023/08 ~ )
 
+### webアプリケーションの改善
+#### 概要
+#### 担当技術スタック
+#### 担当業務
+
 WIP
 
----
+### Electronを使ったデスクトップアプリ開発プロジェクト
+#### 概要
+
+ボイスチェンジャーのデスクトップアプリの保守・改修
+
+#### 担当技術スタック
+
+- デスクトップアプリ
+  - TypeScript (Electron, React)
+  - Python
+- Backend/Infra
+  - AWS (S3, Lambda, ALB, CloudFront)
+  - Firebase (Authentication, RemoteConfig)
+  - Go (echo)
+  - GitHub Actions
+
+#### 担当業務
+
+- デスクトップアプリ
+  - UIの実装
+  - Auto updaterの実装
+  - macOS, Windowsのcode signing
+  - Pythonを使った音声変換処理の実装
+  - アプリサイズの削減
+- Backend/Infra
+  - デスクトップアプリのAuto updaterのためのS3/CloudFront構築
+  - GitHub Actionsを使用したCI/CDの構築（lint, build, deploy）
+
+### Tauriを使ったデスクトップアプリ開発プロジェクト
+#### 概要
+
+- 以下の機能を持ったデスクトップアプリの開発
+  - ボイスチェンジャー
+  - Cross-Language Meeting
+- アプリで使用するオーディオドライバーの開発
+
+#### 担当技術スタック
+
+- デスクトップアプリ
+  - Rust (Tauri)
+  - TypeScript (React)
+- Backend/Infra
+  - AWS (S3, Lambda, ALB, CloudFront)
+  - Firebase (Authentication, RemoteConfig)
+  - Go (echo)
+  - GitHub Actions
+- オーディオドライバー
+  - C (macOS; CoreAudio)
+  - C++ (Windows; WDK)
+
+#### 担当業務
+
+- デスクトップアプリ
+  - UIの実装
+  - Auto updaterの実装
+  - macOS, Windowsのcode signing
+  - Rustを使った音声変換処理の実装
+  - audioのI/Oとしてweb socketを実装
+- Backend/Infra
+  - デスクトップアプリのAuto updaterのためのS3/CloudFront構築
+  - GitHub Actionsを使用したCI/CDの構築（lint, build, deploy）
+- オーディオドライバー
+  - macOSにおける仮想オーディオデバイスの開発・署名
+  - Windowsにおける仮想オーディオデバイスの開発・テスト・署名
+  - オーディオデバイスのインストーラーの開発・保守
 
 ## 朝日印刷株式会社 (2019/07 ~ )
 
@@ -80,8 +149,6 @@ WIP
   - `NavigationView` を使用したナビゲーションUI実装
   - `UICollectionView` を使用したExcel風のテーブルUI実装
   - Firestore DatabaseへのCRUD
-
----
 
 ## windhole株式会社 (2022/02 ~ 2023/01)
 
