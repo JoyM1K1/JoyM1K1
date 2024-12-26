@@ -74,30 +74,36 @@ CoeFontでエンジニアをしている傍ら、個人事業主としてweb開�
 
 #### 言語
 
-<img alt="Rust" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_light_rust.svg" width="32">
-<img alt="TypeScript" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript_official.svg" width="32">
-<img alt="Go" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_go_gopher.svg" width="32" />
-<img alt="Swift" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_swift.svg" width="32" />
-<img alt="Dart" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_dartlang.svg" width="32" />
+<div displey="flex">
+  <img alt="Rust" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_light_rust.svg" width="32">
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript_official.svg" width="32">
+  <img alt="Go" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_go_gopher.svg" width="32" />
+  <img alt="Swift" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_swift.svg" width="32" />
+  <img alt="Dart" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_dartlang.svg" width="32" />
+</div>
 
 #### フレームワーク
 
-<img alt="Tauri" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_tauri.svg" width="32">
-<img alt="Electron" src="https://avatars.githubusercontent.com/u/13409222?s=200&v=4" width="32">
-<img alt="NodeJS" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32">
-<img alt="React" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_reactjs.svg" width="32" />
-<img alt="SolidJS" src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" width="32" />
-<img alt="Vue" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="32" />
-<img alt="Nuxt" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nuxt.svg" width="32" />
-<img alt="Flutter" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_flutter.svg" width="32" />
+<div displey="flex">
+  <img alt="Tauri" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_tauri.svg" width="32">
+  <img alt="Electron" src="https://avatars.githubusercontent.com/u/13409222?s=200&v=4" width="32">
+  <img alt="NodeJS" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32">
+  <img alt="React" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/refs/heads/master/icons/file_type_reactjs.svg" width="32" />
+  <img alt="SolidJS" src="https://avatars.githubusercontent.com/u/79226042?s=200&v=4" width="32" />
+  <img alt="Vue" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="32" />
+  <img alt="Nuxt" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nuxt.svg" width="32" />
+  <img alt="Flutter" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_flutter.svg" width="32" />
+</div>
 
 
 #### インフラ・その他
 
-<img alt="Firebase" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firebase.svg" width="32" />
-<img alt="AWS" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_aws.svg" width="32" />
-<img alt="MySQL" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="32" />
-<img alt="Docker" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" width="32" />
+<div displey="flex">
+  <img alt="Firebase" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_firebase.svg" width="32" />
+  <img alt="AWS" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_aws.svg" width="32" />
+  <img alt="MySQL" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mysql.svg" width="32" />
+  <img alt="Docker" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" width="32" />
+</div>
 
 
 ### 詳細 👇
